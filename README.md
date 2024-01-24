@@ -1,6 +1,6 @@
 
 
-# Python/THML web Application CI/CD Pipeline with Jenkins
+# Python/HTML web Application CI/CD Pipeline with Jenkins
 
 ## Task
 Create a CI/CD Pipeline with the following steps:
